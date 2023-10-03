@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vishalyadav211296@gmail.com**
 
